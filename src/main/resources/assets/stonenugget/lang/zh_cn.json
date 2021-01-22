@@ -1,0 +1,13 @@
+{
+  "block.stonenugget.absolutely_smooth_stone": "绝对平滑石",
+  "block.stonenugget.stone_dust_ore": "石粉矿石",
+  "block.stonenugget.stone_dust_ore.tooltip": "一种只能在末地找到的珍稀矿石。",
+  "effect.stonenugget.stone_nugget_wait": "石粒效果冷却",
+  "item.stonenugget.stone_dust": "石粉",
+  "item.stonenugget.stone_dust.tooltip": "合成石粒的必要原料。",
+  "item.stonenugget.stone_ingot": "石锭",
+  "item.stonenugget.stone_nugget": "石粒",
+  "item.stonenugget.stone_nugget.tooltip.1": "这是一个重要的合成材料。",
+  "item.stonenugget.stone_nugget.tooltip.2": "你也可以直接吃掉它。",
+  "itemGroup.stonenugget.stone_nugget": "石粒模组"
+}

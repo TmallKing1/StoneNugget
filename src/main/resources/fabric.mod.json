@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "stonenugget",
+  "version": "${version}",
+
+  "name": "StoneNugget Mod",
+  "description": "StoneNugget is a Minecraft Fabric Mod that adds Zi__Min's stone nugget and other things...",
+  "authors": [
+    "xiaozhu_zhizui"
+  ],
+  "contact": {
+    "homepage": "https://space.bilibili.com/381671770",
+    "sources": "https://github.com/TmallKing1/StoneNugget"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/stonenugget/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.xzzz.stonenugget.Main"
+    ]
+  },
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "stonenugget:stone_nugget"
+    }
+  },
+  "result": {
+    "item": "stonenugget:stone_ingot",
+    "count": 1
+  }
+}
