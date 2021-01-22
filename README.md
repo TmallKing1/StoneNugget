@@ -1,2 +1,3 @@
-# StoneNugget
-StoneNugget is a Minecraft Fabric Mod that adds Zi__Min's stone nugget and other things...
+# 石粒模组
+石粒模组是一个添加了物品“石粒”及一些其它内容的模组.
+
