@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "stonenugget:stone_dust_ore"
+  },
+  "result": "stonenugget:stone_dust",
+  "experience": 1.0,
+  "cookingtime": 100
+}

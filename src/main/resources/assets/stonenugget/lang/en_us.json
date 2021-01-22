@@ -1,0 +1,13 @@
+{
+  "block.stonenugget.absolutely_smooth_stone": "Absolutely Smooth Stone",
+  "block.stonenugget.stone_dust_ore": "Stone Dust Ore",
+  "block.stonenugget.stone_dust_ore.tooltip": "A kind of ore that you can only find in The End.",
+  "effect.stonenugget.stone_nugget_wait": "Stone Nugget Effect Cooldown",
+  "item.stonenugget.stone_dust": "Stone Dust",
+  "item.stonenugget.stone_dust.tooltip": "The necessary ingredient of crafting a stone nugget.",
+  "item.stonenugget.stone_ingot": "Stone Ingot",
+  "item.stonenugget.stone_nugget": "Stone Nugget",
+  "item.stonenugget.stone_nugget.tooltip.1": "This is an important crafting ingredient.",
+  "item.stonenugget.stone_nugget.tooltip.2": "You can also eat this item.",
+  "itemGroup.stonenugget.stone_nugget": "Stone Nugget Mod"
+}

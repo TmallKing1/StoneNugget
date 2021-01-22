@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stonenugget:block/absolutely_smooth_stone"
+  }
+}
